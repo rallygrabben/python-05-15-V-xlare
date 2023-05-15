@@ -48,7 +48,6 @@ def exchangeNow(price, payment):
         
 
 
-        # loopVars = [500,100,50,20,10,5,1]
 
         for loopVar in exchange_back_dict:
             if exchange_back_dict[loopVar] >= 1:
